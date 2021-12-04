@@ -23,3 +23,8 @@ fun String.parseAsBinary(inverse: Boolean = false): Int {
     }
     return result
 }
+
+fun <T>List<List<T>>.print() =
+    forEach {
+        println(it.joinToString(" "))
+    }
