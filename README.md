@@ -4,7 +4,12 @@ Welcome to the Advent of Code[^aoc] Kotlin project created by [octothorped][gith
 
 In this repository, octothorped is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
-If you stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+Primary Goals and Considerations:
+- Complete solution over optimized solution
+- Use long functional chains (ie. map, flatMap, forEach etc) over separate conditionals
+- Have fun with anything Kotlin
+
+If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
 - [Kotlin docs][docs]
 - [Kotlin Slack][slack]
